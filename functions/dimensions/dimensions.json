@@ -2,13 +2,36 @@
   {
     "name": "recipeCategory",
     "values": {
+      "bread": ["bread", "brot"],
       "breakfast": ["breakfast", "fruehstueck"],
+      "cake": ["cake", "kuchen", "gebaeck"],
       "desert": ["desert", "dessert"],
-      "main course": ["hauptgericht", "hauptspeise", "mittagessen", "lunch"],
-      "starter": ["vorspeise", "vorspeisen", "starter"],
+      "dinner": ["dinner", "abendessen"],
       "drink": ["drink","getraenk"],
+      "main course": ["hauptgericht", "hauptspeise", "mittagessen", "lunch"],
+      "salad": ["salad", "salat", "salate"],
+      "sauce": ["sauce", "sauces", "sauce", "saucen"],
+      "starter": ["vorspeise", "vorspeisen", "starter"],
+      "side dish": ["sidedish", "side dish", "beilage"],
       "snack": ["snack"],
-      "dinner": ["dinner", "abendessen"]
+      "soups and stew": ["soup", "suppe", "suppen"]
+    }
+  },
+  {
+    "name": "mainingredient",
+    "values": {
+      "meat": ["meat", "fleisch"],
+      "fish": ["fish", "fisch"],
+      "poultry": ["poultry", "gefluegel", "huhn", "pute", "ente", "chicken", "duck"],
+      "vegetables": ["vegetables", "gemuese"],
+      "cereals": ["cereals", "getreide"],
+      "legume": ["legume", "huelsenfruechte"],
+      "potatoe": ["potatoe", "potatoes", "kartoffel", "kartoffeln"]
+      "seafood": ["seefood", "meeresfruechte"],
+      "milk": ["milk", "milch","milchprodukt", "milchprodukte"],
+      "fruit": ["fruit", "obst"],
+      "pasta": ["pasta"],
+      "rice": ["rice", "reis"]
     }
   },
   {
@@ -23,8 +46,12 @@
   {
     "name": "region",
     "values": {
+      "chinese": ["chinese", "chinesisch", "chinesisches"],
       "italian": ["italienisch", "italien", "italy"],
+      "french": ["french", "franzoesisch", "franzoesisches"],
       "greek": ["greek", "Griechenland", "griechisch"],
+      "indian": ["international"],
+      "international": ["indian", "indisch", "indische"],
       "swedish": ["schwedisch"],
       "thai": ["thai", "thailaendisches", "thailaendisch"]
     }
