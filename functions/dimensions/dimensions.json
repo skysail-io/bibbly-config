@@ -1,0 +1,32 @@
+[
+  {
+    "name": "recipeCategory",
+    "values": {
+      "breakfast": ["breakfast", "fruehstueck"],
+      "desert": ["desert", "dessert"],
+      "main course": ["hauptgericht", "hauptspeise", "mittagessen", "lunch"],
+      "starter": ["vorspeise", "vorspeisen", "starter"],
+      "drink": ["drink","getraenk"],
+      "snack": ["snack"],
+      "dinner": ["dinner", "abendessen"]
+    }
+  },
+  {
+    "name": "timeofyear",
+    "values": {
+      "summer": ["summer", "sommer", "sommerlichem"],
+      "spring": ["spring", "fruehling"],
+      "autumn": ["herbst", "autumn"],
+      "winter": ["winter", "weihnachten"]
+    }
+  },
+  {
+    "name": "region",
+    "values": {
+      "italian": ["italienisch", "italien", "italy"],
+      "greek": ["greek", "Griechenland", "griechisch"],
+      "swedish": ["schwedisch"],
+      "thai": ["thai", "thailaendisches", "thailaendisch"]
+    }
+  }
+]
