@@ -26,7 +26,7 @@
       "vegetables": ["vegetables", "gemuese"],
       "cereals": ["cereals", "getreide"],
       "legume": ["legume", "huelsenfruechte"],
-      "potatoe": ["potatoe", "potatoes", "kartoffel", "kartoffeln"]
+      "potatoe": ["potatoe", "potatoes", "kartoffel", "kartoffeln"],
       "seafood": ["seefood", "meeresfruechte"],
       "milk": ["milk", "milch","milchprodukt", "milchprodukte"],
       "fruit": ["fruit", "obst"],
